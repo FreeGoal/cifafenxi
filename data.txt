@@ -1,0 +1,15 @@
+1234 abc 123.5+= ++ + -- -= -
+
+&& || a+b+c 123bbb & | 
+
+aaa1234 aaa_&&&&
+
+int a=1;
+int b=2;
+int 123aaa;
+int bbb_12;
+for(int i = 1;i <= 5;i ++)
+{ sum[1] += i;}
+int a[;
+(a+b)+(c;
+print read
